@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Artyom!
-![literally me](https://i.ibb.co/PTvc4bx/Miku.png)
+![miku](https://i.postimg.cc/d1cPzCXL/Miku-1.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D0n7T0uchM3)](https://github.com/anuraghazra/github-readme-stats)
 
